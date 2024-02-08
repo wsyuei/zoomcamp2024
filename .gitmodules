@@ -1,0 +1,3 @@
+[submodule "Week 2 Tutorial/mage-zoomcamp"]
+	path = Week 2 Tutorial/mage-zoomcamp
+	url = https://github.com/wsyuei/zoomcamp2024.git
